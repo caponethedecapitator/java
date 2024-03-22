@@ -1,0 +1,126 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch IsPalindromeTest",
+            "request": "launch",
+            "mainClass": "CoreJava.IsPalindromeTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackLLImplementationTest",
+            "request": "launch",
+            "mainClass": "Algorithms.StackLLImplementationTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraySorting",
+            "request": "launch",
+            "mainClass": "ArraySorting",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayTest",
+            "request": "launch",
+            "mainClass": "ArrayTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorTest",
+            "request": "launch",
+            "mainClass": "ConstructorTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstSample",
+            "request": "launch",
+            "mainClass": "FirstSample",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputTest",
+            "request": "launch",
+            "mainClass": "InputTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegerTest",
+            "request": "launch",
+            "mainClass": "IntegerTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch LocationTest",
+            "request": "launch",
+            "mainClass": "LocationTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch RaggedArray",
+            "request": "launch",
+            "mainClass": "RaggedArray",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBuilderTest",
+            "request": "launch",
+            "mainClass": "StringBuilderTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringConcatenationTest",
+            "request": "launch",
+            "mainClass": "StringConcatenationTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubstringTest",
+            "request": "launch",
+            "mainClass": "SubstringTest",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDimensionArray",
+            "request": "launch",
+            "mainClass": "TwoDimensionArray",
+            "projectName": "java_a7cf075c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "java_a7cf075c"
+        }
+    ]
+}
